@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/AmruthaSGaffar/Globamanticsstatic/css/main.0d9ab493.chunk.css",
-    "main.js": "/AmruthaSGaffar/Globamanticsstatic/js/main.095bdb01.chunk.js",
-    "main.js.map": "/AmruthaSGaffar/Globamanticsstatic/js/main.095bdb01.chunk.js.map",
+    "main.js": "/AmruthaSGaffar/Globamanticsstatic/js/main.1fffecb1.chunk.js",
+    "main.js.map": "/AmruthaSGaffar/Globamanticsstatic/js/main.1fffecb1.chunk.js.map",
     "runtime-main.js": "/AmruthaSGaffar/Globamanticsstatic/js/runtime-main.0339501a.js",
     "runtime-main.js.map": "/AmruthaSGaffar/Globamanticsstatic/js/runtime-main.0339501a.js.map",
     "static/css/2.4be38407.chunk.css": "/AmruthaSGaffar/Globamanticsstatic/css/2.4be38407.chunk.css",
-    "static/js/2.fd005196.chunk.js": "/AmruthaSGaffar/Globamanticsstatic/js/2.fd005196.chunk.js",
-    "static/js/2.fd005196.chunk.js.map": "/AmruthaSGaffar/Globamanticsstatic/js/2.fd005196.chunk.js.map",
+    "static/js/2.2e7ef9af.chunk.js": "/AmruthaSGaffar/Globamanticsstatic/js/2.2e7ef9af.chunk.js",
+    "static/js/2.2e7ef9af.chunk.js.map": "/AmruthaSGaffar/Globamanticsstatic/js/2.2e7ef9af.chunk.js.map",
     "static/js/3.ca31bd0f.chunk.js": "/AmruthaSGaffar/Globamanticsstatic/js/3.ca31bd0f.chunk.js",
     "static/js/3.ca31bd0f.chunk.js.map": "/AmruthaSGaffar/Globamanticsstatic/js/3.ca31bd0f.chunk.js.map",
     "index.html": "/AmruthaSGaffar/Globamanticsindex.html",
     "static/css/2.4be38407.chunk.css.map": "/AmruthaSGaffar/Globamanticsstatic/css/2.4be38407.chunk.css.map",
     "static/css/main.0d9ab493.chunk.css.map": "/AmruthaSGaffar/Globamanticsstatic/css/main.0d9ab493.chunk.css.map",
-    "static/js/2.fd005196.chunk.js.LICENSE.txt": "/AmruthaSGaffar/Globamanticsstatic/js/2.fd005196.chunk.js.LICENSE.txt",
+    "static/js/2.2e7ef9af.chunk.js.LICENSE.txt": "/AmruthaSGaffar/Globamanticsstatic/js/2.2e7ef9af.chunk.js.LICENSE.txt",
     "static/media/feedback.24af4cd0.jfif": "/AmruthaSGaffar/Globamanticsstatic/media/feedback.24af4cd0.jfif",
     "static/media/logo.6ce24c58.svg": "/AmruthaSGaffar/Globamanticsstatic/media/logo.6ce24c58.svg",
     "static/media/logo.74fff974.png": "/AmruthaSGaffar/Globamanticsstatic/media/logo.74fff974.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.0339501a.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.fd005196.chunk.js",
+    "static/js/2.2e7ef9af.chunk.js",
     "static/css/main.0d9ab493.chunk.css",
-    "static/js/main.095bdb01.chunk.js"
+    "static/js/main.1fffecb1.chunk.js"
   ]
 }
